@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Polster;Simon;;;
-FN: Simon Polster 
+N:Mambelli;Alessandro;;;
+FN: Alessandro Mambelli 
 ORG:cartisan.org;
-TITLE:Cartographer
-EMAIL;type=INTERNET;type=WORK;type=pref:simon@cartisan.org
-TEL;type=WORK;type=VOICE:+49 157 314 316 48
-item1.ADR;type=WORK;type=pref:Berlin\nGermany
+TITLE:co-founder | map lover
+EMAIL;type=INTERNET;type=WORK;type=pref:alessandro@cartisan.org
+TEL;type=WORK;type=VOICE: +374 96 37 555 7
+item1.ADR;type=WORK;type=pref:Yerevan\nArmenia
 item1.X-ABADR:sg
 item2.URL;type=pref:cartisan.org
 item2.X-ABLabel:_$!<HomePage>!$_
